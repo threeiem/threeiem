@@ -1,5 +1,6 @@
-# threeiem
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=threeiem&show_icons=true&theme=react)
+# threeiem - Phil Cogbill (pc3)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=threeiem&count_private=true)
 
 [<img src="https://raw.githubusercontent.com/threeiem/threeiem/main/twitter.svg" height="32em" align="center" alt="Threeiem on Twitter"/>](https://twitter.com/threeiem)
 [<img src="https://raw.githubusercontent.com/threeiem/threeiem/main/instagram.svg" height="23em" align="center" style="padding-right:13px;" alt="Threeiem on Instagram"/>](https://instagram.com/threeiem)
