@@ -1,11 +1,11 @@
 # threeiem - Phil Cogbill (pc3)
 
-<div style="display: flex; flex-wrap: wrap; gap: 1px;">
+<div style="display: flex; flex-wrap: wrap; gap: 0px;">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img align="left" height="180" src="https://github-contribution-stats.vercel.app/api/?username=threeiem" alt="Contribution Stats" />
+    <img align="left" height="190" src="https://github-contribution-stats.vercel.app/api/?username=threeiem" alt="Contribution Stats" />
   </a>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/">
-    <img align="left" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=threeiem&theme=github-compact" alt="Activity Graph" />
+    <img align="left" height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=threeiem&theme=github-compact" alt="Activity Graph" />
   </a>
 </div>
 <br clear="left"/>
